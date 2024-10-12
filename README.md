@@ -19,3 +19,17 @@ Secondly, we accessed the performance of our approach when working with data tha
 Lastly, we consider the underlying distribution to be a bivariate normal distribution. The results are shown in Table 6.
 ![image](https://github.com/user-attachments/assets/26b846de-b76a-471e-a8af-5375364e217f)
 
+## Part 2. Reproducing simulation results in Section 5.2 of the manuscript
+We now illustrate the power of our proposed test.
+### 2.1 Choose the order
+Our sensitivity analysis aimed to investigate how the test is influenced by different orders of the tunning parameter.
+![image](https://github.com/user-attachments/assets/d1c44d44-7585-4b5e-bd52-7c007ffa3ba1)
+![image](https://github.com/user-attachments/assets/5d6930a5-b140-4a5b-987a-ea508d8265f7)
+
+### 2.2 Power comparison
+With the order chosen, we proceeded to compare the performance of our method with that of the method proposed in [Mccaig and Yatchew (2007)](../master/README.md#reference).
+![image](https://github.com/user-attachments/assets/bfcefa90-9b28-40f0-88e4-4c613dc5ec66)
+
+## Reference: 
+1. Mccaig, B. and A. Yatchew (2007). [](https://onlinelibrary.wiley.com/doi/10.1002/jae.964)
+   *Journal of Applied Econometrics*.  22(5), 951–969.
