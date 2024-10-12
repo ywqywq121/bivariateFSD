@@ -28,6 +28,7 @@ Our sensitivity analysis aimed to investigate how the test is influenced by diff
 
 ### 2.2 Power comparison
 With the order chosen, we proceeded to compare the performance of our method with that of the method proposed in [Mccaig and Yatchew (2007)](../master/README.md#reference).
+
 ![image](https://github.com/user-attachments/assets/bfcefa90-9b28-40f0-88e4-4c613dc5ec66)
 
 ## Reference: 
